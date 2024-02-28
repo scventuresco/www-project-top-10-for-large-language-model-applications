@@ -36,6 +36,12 @@ We have a working group channel on the [OWASP Slack](https://owasp.org/slack/inv
 
 Please hop over to [our wiki page](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki) to collaborate on the project and stay up to date with the latest meetings and current roadmap.
 
+## Sponsorship
+
+If you want to become a Sponsor or Donor to the project, you can find the latest details on the project Wiki page.
+[Top 10 LLM Project Sponsorship Details](https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki/Donors-and-Project-Sponsors).
+
+
 ## License
 
 This project is licensed under the terms of the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
